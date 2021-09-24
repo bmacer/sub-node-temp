@@ -1,0 +1,10 @@
+{
+  "jsonrpc":"2.0",
+  "id":1,
+  "method":"author_insertKey",
+  "params": [
+    "gran",
+    "hamster amused pelican already young shine cake inherit upon battle photo enrich",
+    "0x31488565db78b37fa417cb8471c903c061647bc4dfd30307b047e3d032d7d858"
+  ]
+}

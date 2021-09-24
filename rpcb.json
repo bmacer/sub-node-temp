@@ -1,0 +1,10 @@
+{
+  "jsonrpc":"2.0",
+  "id":1,
+  "method":"author_insertKey",
+  "params": [
+    "gran",
+    "normal demise bright panther march urge business equal nurse mask dynamic common",
+    "0x47788edc079eb94bb61d2d6be6bf8f9a04dac88ee86193b6cd5dd9c9c937538f"
+  ]
+}
